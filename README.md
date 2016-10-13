@@ -15,3 +15,6 @@ The content of these workshops is intended to be strictly for educational purpos
 ##### Contact Info:
 If you have any questions, comments, or concerns, please feel free to email anyone here:
 - [Stephanie Greenberg](https://github.com/StephanieGreenberg) (President): <a href='mailto:sgreenberg8631@bths.edu'>sgreenberg8631@bths.edu</a>
+- Chris Carlan (Vice President): <a href='mailto:ccarlan6634@bths.edu'>ccarlan6634@bths.edu</a>
+- Brendan Moloney (Secretary): <a href='mailto:bmoloney5721@bths.edu'>bmoloney5721@bths.edu</a>
+- Alex Putra (Treasurer): <a href='mailto:aputra1496@bths.edu'>aputra1496@bths.edu</a>
