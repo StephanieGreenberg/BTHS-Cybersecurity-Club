@@ -1,7 +1,5 @@
 # Intro to Cybersecurity
 
-<a href = "https://goo.gl/forms/HXREIwZyYkWfkgVU2">Week 1 Member Information</a>
-
 Cybersecurity is now one of the most fastest growing fields in the world. 
 As we depend more and more on technology and the internet the amount of cybercrimes continue to increase.
 This means we also need to do a better job of protecting ourselves. 
