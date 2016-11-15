@@ -1,7 +1,4 @@
-#Week 1: Virtual Machines and Linux
-
-
-<a href = "https://goo.gl/forms/HXREIwZyYkWfkgVU2">Week 1 Member Information</a>
+#Week 2: Virtual Machines and Linux
 
 You can find this week's presentation [here](https://docs.google.com/presentation/d/15B-QUuf6CjwKjWJIWiXk46wcXsKYmvMeDM2hWBdriWk/edit?pli=1#slide=id.gcb84b61d4_0_116).
 
