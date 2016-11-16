@@ -1,4 +1,4 @@
-# BTHS-Cybersecurity-Club
+# BTHS Cybersecurity Club
 
 The goal of Cybersecurity club is to introduce beginners with little to no experience to basic concepts. Students will utilize this knowledge and apply it in high school and global cybersecurity competitions such as Capture the Flag.
 
