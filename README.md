@@ -6,8 +6,6 @@ This repository is intended to be a resource for club members and anyone in the 
 
 The topics covered each week will be briefly summarized here on GitHub in case anyone misses a week or other people out there on the Internet are looking for a resource. Any tools or resources mentioned in or out of the workshops will also be included here, as well as any important links.
 
-The lessons in the '15-'16 directory are from last year's club curriculum. Some things will be changed for the 2016-2017 year as we go along.
-
 Workshops are held after 10th period at Brooklyn Technical High School on Wednesdays in room 2N2.
 
 #### Disclaimer:
