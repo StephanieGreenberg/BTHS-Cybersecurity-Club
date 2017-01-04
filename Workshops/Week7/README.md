@@ -1,8 +1,6 @@
 # Cryptography
 
-This weeks presenation can be found [here](https://goo.gl/6ZY3v4)
-
-This weeks brain blast is: [The Fuck](https://github.com/nvbn/thefuck)
+This weeks presentation can be found [here](https://goo.gl/6ZY3v4)
 
 
 ## What is Cryptography?
